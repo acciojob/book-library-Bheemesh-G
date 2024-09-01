@@ -13,10 +13,10 @@ h1{
     display: block;
     margin: 0 auto;
 }
-.author{
+.end .author{
 	color:#777777;
 }
-.price{
+.end .price{
 	background-color:#2ecc71;
 	text-align:center;
 	color:white;
